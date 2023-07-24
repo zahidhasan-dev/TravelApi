@@ -6,12 +6,12 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/zahidhasan-dev/Laravel-Multi-Guard-Authentication.git
+    git clone https://github.com/zahidhasan-dev/TravelApi.git
     
 
 Switch to the repo folder
 
-    cd Laravel-Multi-Guard-Authentication
+    cd TravelApi
 
 Install all the dependencies using composer
 
@@ -34,6 +34,10 @@ Start the local development server
     php artisan serve
 
 You can now access the server at http://localhost:8000
+
+Read documentation 
+
+    http://localhost:8000/docs
 
 **TL;DR command list**
 
